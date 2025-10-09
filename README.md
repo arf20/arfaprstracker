@@ -9,6 +9,7 @@ This repository contains the case model for 3D printing
  - LILYGO LoRa32 v1.6.1
  - ATGM336H GNSS module
  - BME280 3.3V sensor module
+ - small momentary button
  - 803040 1000mAh 3.7V LiPo
  - 90 deg SMA M angle adapter
  - 433MHz whip antenna
